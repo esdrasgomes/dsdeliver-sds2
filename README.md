@@ -1,5 +1,5 @@
 # Sistema de Delivery 
-Projeto desenvolvido durante a Semana DevSuperior. O projeto consiste em um sistema de registro e entrega de pedidos.
+Aolicação desenvolvida durante a Semana DevSuperior. O projeto consiste em um sistema de registro e entrega de pedidos.
 ## Ferramentas utilizadas:
 - Java
 - Spring Boot
