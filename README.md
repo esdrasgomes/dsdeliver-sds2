@@ -18,7 +18,7 @@ https://snackdelyveri.netlify.app/
 ### Cardápio
 ![img3](https://user-images.githubusercontent.com/55815494/115968069-41f99b80-a50c-11eb-8b29-64630620496e.png)
 
-### Mapa (escolher a localização do cliente)
+### Mapa (Localização do cliente)
 ![img2](https://user-images.githubusercontent.com/55815494/115968079-563d9880-a50c-11eb-91d1-95e24834dd2b.png)
 
 
